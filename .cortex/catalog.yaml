@@ -1,0 +1,12 @@
+openapi: "3.0.0"
+info:
+  title: "pharmacy-inventory"
+  x-cortex-tag: "pharmacy-inventory"
+  x-cortex-description: "Drug inventory and formulary management"
+  x-cortex-owners:
+    - type: group
+      name: "Pharmacy & Fuel Team"
+  x-cortex-custom-metadata:
+    apm_id: "apm0001305"
+    apm_name: "Pharmacy Management System"
+    cost_center: "CC-4320"
